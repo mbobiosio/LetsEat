@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LetsEat</string>
+    <string name="about">About</string>
+    <string name="details">Picking what we eat at a time should be fun when we get to randomize them with an App. You can add several other foods to the App and yep, it\'s pretty fun. Hopefully it doesn\'t repeat same food twice else.</string>
+    <string name="developer_name">Mbuodile Obiosio</string>
+    <string name="developer">Developer</string>
+    <string name="new_food_name">New Food Name…</string>
+    <string name="add_food">ADD BREAKFAST</string>
+    <string name="add_lunch">ADD LUNCH</string>
+    <string name="add_dinner">ADD DINNER</string>
+    <string name="decide">Decide!!!</string>
+    <string name="first_tip">Yippie.... What Do We Eat?</string>
+    <string name="have_lunch">Let\'s Have Lunch!!!</string>
+    <string name="lunch_image">Lunch Image</string>
+    <string name="have_breakfast">Let\'s Have Breakfast!!!</string>
+    <string name="breakfast_image">Breakfast Image</string>
+    <string name="dinner_image">Dinner Image</string>
+    <string name="have_dinner">Let\'s Have Dinner!!!</string>
+    <string name="intro_detail">Hiii. A simple way to randomly pick your food should be fun right?</string>
+    <string name="get_started">GET STARTED!!!</string>
+    <string name="new_food_empty">Oops. Enter a new food name</string>
+</resources>

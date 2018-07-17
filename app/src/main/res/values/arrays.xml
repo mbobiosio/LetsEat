@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dinner">
+        <item>Ekpang Nkukwo</item>
+        <item>Coconut Rice</item>
+        <item>Jollof Rice</item>
+        <item>Plantain and Chicken</item>
+    </string-array>
+</resources>
